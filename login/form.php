@@ -11,7 +11,7 @@
 <body>
     <div style="padding: 50px;">
     <form action="session.php" method="post">
-      <marquee behavior="" direction=""><h2>Login dulu kidsz</h2></marquee>
+      <marquee behavior="" direction=""><h2>Login dulu cuy</h2></marquee>
         <div>
             Username : 
             <br>
